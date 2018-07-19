@@ -1,0 +1,8 @@
+#!/bin/bash
+
+treble_experimentations_last=deb96a45e43d74241f87fc324b9d7ccb92ddda11
+treble_experimentations_branch=master
+treble_manifest_last=4679dfdf7efb1ad0238e2c76a38c616b105a7bea
+treble_manifest_branch=android-8.1
+treble_patches_last=8708d033c0fa1c6000b4d324f4526afe5d3da33d
+treble_patches_branch=android-8.1
